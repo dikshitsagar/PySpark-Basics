@@ -1,2 +1,2 @@
 # PySpark-Basics
-This Repo has shows Spark with Python Basics. 
+This Repo shows Spark with Python Basics. 
